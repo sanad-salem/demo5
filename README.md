@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Oracle Database Creation
+* MS SQL Server Database Create
+* 
